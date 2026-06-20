@@ -494,7 +494,7 @@ THE SOFTWARE.
           <plugin>
             <groupId>com.github.eirslett</groupId>
             <artifactId>frontend-maven-plugin</artifactId>
-            <version>2.0.1</version>
+            <version>24.17.1</version>
             <executions>
               <execution>
                 <id>yarn lint:ci</id>
